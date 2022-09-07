@@ -45,7 +45,7 @@ def eligible_for_pension_dirty(employee):
 # An intermediate Variable says a lot more them a long expression
 def eligible_for_pension_clean(employee):
     # Write your clean version here
-    return 0  # remove this to run your version
+    return None  # remove this to run your version
 
 # Ternary exersise
 def get_price_dirty(is_preordered):
